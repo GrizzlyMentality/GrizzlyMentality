@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/erikgrizzly-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/erikgrizzly-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/erikgrizzly)
+[![website](./img/instagram-dark.svg)](https://instagram.com/erikgrizzly)
 
 ### Languages and Tools:
 
