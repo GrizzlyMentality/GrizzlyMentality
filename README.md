@@ -1,4 +1,4 @@
-# Hi there, I'm Erik - aka GrizzlyMentality 👋
+# Hi there, I'm Erik Aivazyan - aka GrizzlyMentality 👋
 
 ## I'm a Student ,  BBall Player , Coach and Developer!!!
 
